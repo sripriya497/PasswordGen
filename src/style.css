@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Karla", sans-serif;
+}
+
+.display{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+}
+
+.button-gen{
+    border-radius: 6px; 
+    border: #D1D5DB solid; 
+    margin-right: 50px;
+}
